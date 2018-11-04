@@ -3,7 +3,6 @@
 Em construção
 
 ## Créditos:
-=========
 
  * Dados agregados do Cartola disponíveis em: [CaRtola](https://github.com/henriquepgomide/caRtola)
 
