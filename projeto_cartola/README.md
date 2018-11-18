@@ -32,6 +32,10 @@ Como forma de análise, foram utilizadas as técnicas de aprendizagem de máquin
 
 O trabalho pode ser dividido em três partes: 1) Seleção de Features; 2) Uso do KMeans; 3) Integração do Decision Tree com o KMeans. A primeira está presente nas Seções 2, para os Meio-Campistas e 3, para os restantes. O uso do KMeans está presente na Seção 3 e, por fim, o uso do Decision Tree com o KMeans na Seção 4.
 
+# Observações
+
+* O notebook foi feito com trechos que rodam apenas no google Colaboratory. Assim indicamos que ele seja rodado na própria plataforma do google. 
+* Verrificar sempre se o arquivo **dados_agregados_limpos.csv** se encontra na mesma pasta que o notebook **k_means_DTree_cartola.ipynb**
 
 ## Créditos:
 
