@@ -6,4 +6,6 @@ Este notebook tem como objetivo a análise do processo de clusterização e apli
 * Notebook feito para ser rodado no google Colaboratory
 * Checar sempre se os arquivos dos datasets estão na mesma pasta que o notebook **Lesson 08 - Clustering.ipynb**
 
+Discente: José Martins de Castro Neto
+
 
