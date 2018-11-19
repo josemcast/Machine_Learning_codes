@@ -1,11 +1,9 @@
-## Projeto 3 - K-Means aplicado aos dados do Cartola FC
+## Atividade 3 - K-Means 
 
-Em construção
+Este notebook tem como objetivo a análise do processo de clusterização e aplicação do *K-means* nos datasets **114_congress.csv** e **nba_2013.csv**.
 
-## Créditos:
-
- * Dados agregados do Cartola disponíveis em: [CaRtola](https://github.com/henriquepgomide/caRtola)
-
-
+## Observações 
+* Notebook feito para ser rodado no google Colaboratory
+* Checar sempre se os arquivos dos datasets estão na mesma pasta que o notebook **Lesson 08 - Clustering.ipynb**
 
 
